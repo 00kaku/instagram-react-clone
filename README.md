@@ -7,9 +7,8 @@ This is an instagram clone using ReactJs.It supports the authentication facility
 ###### Firebase is also used to host the website.
 
 #### Screenshots 
-![Screenshot from 2021-02-10 00-53-04](https://user-images.githubusercontent.com/22026768/107416331-5dbee980-6b3a-11eb-972a-c17ff1996920.png)
 ![initialscreen](https://user-images.githubusercontent.com/22026768/107416337-5ef01680-6b3a-11eb-95fc-7aaf1d7d08d9.png)
-
+![Screenshot from 2021-02-10 00-53-04](https://user-images.githubusercontent.com/22026768/107416331-5dbee980-6b3a-11eb-972a-c17ff1996920.png)
 
 #### How to use
 
